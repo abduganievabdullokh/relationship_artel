@@ -5,6 +5,7 @@ from django.http import HttpResponse
 from rest_framework import generics
 from .models import Student
 
+# dsda
 # def home(request):
 #     return HttpResponse('Mukhtor')
 #
